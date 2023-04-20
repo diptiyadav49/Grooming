@@ -1,0 +1,5 @@
+101;John Doe;01/01/2022;Full Time;Developer;IT
+102;Jane Smith;01/02/2022;Part Time;Designer;Marketing
+103;Mike Johnson;01/03/2022;Full Time;Manager;Operations
+104;Samantha Lee;01/04/2022;Contractor;Developer;IT
+105;David Brown;01/05/2022;Full Time;Project Manager;Operations
